@@ -1,0 +1,23 @@
+{
+  "name": "project-engraving-platform",
+  "version": "1.0.0",
+  "description": "A platform for replicating activities, used in combination with 'front-end-template-architecture' and 'conf-data-online'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longer567/project-engraving-platform.git"
+  },
+  "author": "longer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longer567/project-engraving-platform/issues"
+  },
+  "homepage": "https://github.com/longer567/project-engraving-platform#readme",
+  "dependencies": {
+    "config": "^3.2.4",
+    "express": "^4.17.1"
+  }
+}
